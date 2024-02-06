@@ -1,6 +1,6 @@
 inputs:
   files:
-    - updown.py
+    - up_down.py
     - gaia_table_1.csv
     - gaia_table_2.csv
 workflow:
@@ -10,7 +10,7 @@ workflow:
       - environment: 'jupyter/scipy-notebook'
         commands:
         - mkdir -p results
-        - python updown.py
+        - python up_down.py
 outputs:
   files:
     - results/table_match.png
