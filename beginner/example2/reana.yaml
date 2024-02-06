@@ -6,7 +6,7 @@ workflow:
   type: serial
   specification:
     steps:
-      - environment: 'docker.io/library/python:3.10-bookworm'
+      - environment: 'gitlab-p4n.aip.de:5005/p4nreana/reana-env:py311-astro.9845'
         commands:
           - python sine_plot.py
         
