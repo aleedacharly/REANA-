@@ -24,7 +24,7 @@ workflow:
   type: serial
   specification:
     steps:
-      - environment: 'gitlab-p4n.aip.de:5005/p4nreana/reana-env:py311-astro.9845'
+      - environment: 'jupyter/scipy-notebook'
         commands:
           - python sine_plot.py
 
