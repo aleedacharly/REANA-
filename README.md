@@ -1,4 +1,7 @@
 # Access remote data
+
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=remote-data&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fremote-data)
+
 ## About
 This example shows how to get data from a remote database, in this case the AIP StarHorse data described here: [SH_2021](https://data.aip.de/projects/starhorse2021.html).
 
