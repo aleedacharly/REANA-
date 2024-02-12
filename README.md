@@ -1,6 +1,6 @@
 # "Hello World!"
 
-[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=helloworld&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fhello-world)
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=hello-world&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fhello-world)
 
 This badge was generated usign the Launch-on-REANA badge through adding to the README.md file this string:
 
