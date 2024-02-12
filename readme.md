@@ -1,5 +1,5 @@
 #  Plot a Sine function
-[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=helloworld&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fsine-plot)
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=sine-plot&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fsine-plot)
 
 ## About
  This repository provides a simple `sine function` plotting example for [REANA](https://www.reanahub.io/) reusable research data analysis platform.
