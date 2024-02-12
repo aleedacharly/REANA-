@@ -1,6 +1,6 @@
 # Upload & Download files
 
-[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=helloworld&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fup-download)
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=up-download&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fup-download)
 
 ## About
 This example shows how to upload all files needed for the analysis (e.g. a catalog) and download useful outputs (e.g. a plot or a table).
