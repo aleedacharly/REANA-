@@ -1,5 +1,7 @@
 # Using Python Notebooks
 
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=notebooks&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2notebooks)
+
 ## About
 
 We will now recreate the same example [here](https://gitlab-p4n.aip.de/p4nreana/tutorial2023/-/tree/main/intermediate/example2) but using a Jupyter Notebook.
