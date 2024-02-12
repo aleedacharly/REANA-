@@ -1,5 +1,7 @@
 # Theory of Dimensionality reduction
 
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=dim-red&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Fsecrets)
+
 We show here 3 different alogithms to perform dimensionality reduction and describe how to manage data flow between different pipelines using S3 private storage, all through REANA.
  
 ### UMAP (Uniform Manifold Approximation and Projection):
