@@ -1,5 +1,7 @@
 # Retrieving astronomical data via TAP queries
 
+[![Launch on REANA](https://www.reana.io/static/img/badges/launch-on-reana.svg)](https://reana-p4n.aip.de/launch?name=tap-query&url=https%3A%2F%2Fgitlab-p4n.aip.de%2Fp4nreana%2Ftutorials%2F-%2Ftree%2Ftap)
+
 ## About
 
 This example shows how access the data via [TAP/VO](https://ned.ipac.caltech.edu/Documents/Guides/Interface/TAP) from external database and to use REANA to plot this astronomical data using a Python script.
